@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Fibonacci263
-- 👀 I’m interested in ...AI and robotics
+- 👋 Hi, I’m @alex_kabs
+- 👀 I’m interested in ...AI and Robotics
 - 🌱 I’m currently learning ...Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
