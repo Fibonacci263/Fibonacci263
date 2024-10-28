@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @alex_kabs
-- 👀 I’m interested in ...AI and Robotics
-- 🌱 I’m currently learning ...Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi there! I'm Jonathan
+- 👾 I enjoy creating solutions and working on projects that push the boundaries of technology.
+- 🎓 Undergraduate Computer Engineering Student
+- 💻 Programmer | Tech Enthusiast | Problem Solver
+
 
 <!---
 Fibonacci263/Fibonacci263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
